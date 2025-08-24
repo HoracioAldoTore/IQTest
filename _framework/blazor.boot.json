@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorAppIQTest",
   "resources": {
-    "hash": "sha256-nRc/NlmgoWO32tUw8ibV2e/PX8UFaB71k3n0pVA8jho=",
+    "hash": "sha256-MsXHnHlvR3jHQjskkb+MgL7Uue+fBeWWKcYC1QGs9+c=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-O/NCYcAN9uPocD7ns7AzF/cqx7f5vL1PTJCQs0vEXyk="
     },
@@ -47,7 +47,7 @@
       "System.Text.Json.wasm": "sha256-A1HN3bXTetxuVki5znW2VIwMjHcksrEllPX7HCT9osI=",
       "System.Text.RegularExpressions.wasm": "sha256-amyl1Zsuf+PHSXqju/cl50LQlTKfUNpDi6hcFh10yrM=",
       "System.Private.CoreLib.wasm": "sha256-vD1OrAPLnWcE3PI9tJeUXF3zp3lTpvMwb5H7jUDiSLU=",
-      "BlazorAppIQTest.wasm": "sha256-CJ7y9S68jK+8DZpH0AGKPpnTjkFs/gVgeqSK3X3gVeY="
+      "BlazorAppIQTest.wasm": "sha256-nzWB/nNe8oQrFlyj3Hjt+JXDBxoGDFOprzHrqdbGI+8="
     }
   },
   "cacheBootResources": true,
